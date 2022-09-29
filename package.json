@@ -6,6 +6,9 @@
 	"license": "GPL-3.0-or-later",
 	"homepage": "https://github.com/pantheon-systems/decoupled-kit-js#readme",
 	"bugs": "https://github.com/pantheon-systems/decoupled-kit-js/issues/new?template=bug-report-template.yml",
+	"engines": {
+		"node": ">16.0.1"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pantheon-systems/decoupled-kit-js"
